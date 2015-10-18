@@ -11,3 +11,5 @@ buildNumber.properties
 .settings/
 data
 source.xml
+log
+
