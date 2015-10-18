@@ -1,0 +1,5 @@
+How to use
+==========
+
+* create an eclipse project and run inside eclipse (never tested it from command line)
+* https://support.apple.com/en-us/HT201610 to create an xml file. Add this file as source.xml into this project's root
